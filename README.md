@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning `css and js`
 - 👣 My destiny-let's keep it secret for a while
 - 😇 I believe on hard and smart work 
-- 💬 Ask me about `html and css`
+- 💬 Ask me about `html,css,Vanilla JS,C`
 - 📫 How to reach me: +9779803443845 or Bibekangdembay@gmail.com
 ***
 >I am new to this programming world but I am putting my 100% to progress further.
