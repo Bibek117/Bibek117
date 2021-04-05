@@ -10,7 +10,7 @@
 - 💬 Ask me about `html,css,Vanilla JS,Basic C`
 - 📫 How to reach me: +9779803443845 or Bibekangdembay@gmail.com
 
->[Stay connected at facebook](https://www.facebook.com/bibek.angdembay)
+>[Connect to me through facebook](https://www.facebook.com/bibek.angdembay)
 ***
 >I am new to this programming world but I am putting my 100% to progress further.
 Not much to say😁 Need some more time to build myself💪
