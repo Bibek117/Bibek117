@@ -4,7 +4,7 @@
 #### wanna know me?😄 maybe someday we can help each other☺
 
 - 🔭 I’m currently working with **CodewithSudeep**
-- 🌱 I’m currently learning `php and js`
+- 🌱 I’m currently learning `php ,js and laravel`
 - 👣 My destiny-let's keep it secret for a while
 - 😇 I believe on hard and smart work 
 - 💬 Ask me about `html,css,Vanilla JS,Basic C`
