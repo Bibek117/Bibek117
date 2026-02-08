@@ -1,11 +1,18 @@
-### Hello devs🖐🏻😊
-<hr/>
+# Hi, I’m Bibek 👋
 
-#### wanna know me?😄 maybe someday we can help each other☺
+I’m a curious developer who loves learning, building, and collaborating on meaningful ideas. Welcome to my GitHub profile!
 
+## 🚀 What I’m Working On
+- Improving my skills in web development and software engineering.
+- Building small projects that turn ideas into practical tools.
+- Exploring new technologies and best practices.
 
-- 📫 How to reach me: Bibekangdembay@gmail.com
+## 🤝 Let’s Collaborate
+I’m open to collaborating on interesting projects, learning together, and sharing knowledge.
 
->[Connect to me through facebook](https://www.facebook.com/bibek.angdembay)
-***
-**stay focused** ✌
+## 📬 Get in Touch
+- Email: [Bibekangdembay@gmail.com](mailto:Bibekangdembay@gmail.com)
+- Facebook: [Connect with me](https://www.facebook.com/bibek.angdembay)
+
+---
+> **Stay focused** ✌️
